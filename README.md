@@ -1,9 +1,13 @@
-- 👋 Hi, I’m @theAmrit07
-- 👀 I’m interested in you
-- 🌱 I’m currently learning about Machines
- 
+# 💫 About Me:
+👋 Hi, I’m @theAmrit07<br>👀 I’m interested in you<br>🌱 I’m currently learning about Machines
 
-<!---
-theAmrit07/theAmrit07 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=theAmrit07&theme=gotham&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=theAmrit07&theme=gotham&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=theAmrit07&theme=gotham&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=theAmrit07&icon=0&color=13)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
