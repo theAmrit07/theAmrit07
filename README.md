@@ -1,13 +1,24 @@
-#  About Me:
-👋 Hi, I’m @theAmrit07<br>👀 I’m interested in you<br>🌱 I’m currently learning about Machines
+# Amrit Chataut
 
-
-# GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=theAmrit07&theme=gotham&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=theAmrit07&theme=gotham&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=theAmrit07&theme=gotham&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+Backend Developer · Kathmandu, Nepal  
+[amrit.chataut07@gmail.com](mailto:amrit.chataut07@gmail.com) · [LinkedIn](https://linkedin.com/in/amrit-chataut-426949246)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=theAmrit07&icon=0&color=13)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+Building backend systems with Python and Django. AWS Solutions Architect Associate certified,
+with hands-on experience in cloud infrastructure and production environments.
+
+---
+
+## Skills
+
+**Backend** — Python, Django, DRF, PostgreSQL, REST APIs, JWT  
+**Frontend** — React, JavaScript, HTML, CSS  
+**Cloud** — AWS (EC2, S3, RDS, IAM, VPC, CloudWatch), Render, Vercel, Linux, Git  
+**AI** — Groq API, LLaMA 3.3, YOLOv8, OpenCV
+
+---
+
+## Certifications
+
+AWS Solutions Architect – Associate · Linux (EC Council) · JavaScript (freeCodeCamp)
