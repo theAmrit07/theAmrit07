@@ -21,4 +21,4 @@ with hands-on experience in cloud infrastructure and production environments.
 
 ## Certifications
 
-AWS Solutions Architect – Associate · Linux (EC Council) · JavaScript (freeCodeCamp)
+AWS Solutions Architect – Associate
